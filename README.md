@@ -9,4 +9,6 @@ I made this game over the course of ~ 1.5-2 days using only my intuition as to w
 # Running
 Navigate to the directory where you downloaded this repo, and run `make`.  From there you should just run `./snake` and the game will start.  Follow the prompts on screen.  Have fun!
 
+https://youtu.be/TiYLkegC4pE
+
 ![Screenshot](screenshot.png)
